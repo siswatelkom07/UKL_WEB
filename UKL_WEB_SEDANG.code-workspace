@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../perpus_native"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "UKL_WEB_SEDANG"
+	}
+}
